@@ -1,1 +1,24 @@
+# Apple files
 .DS_Store
+
+# Generated Documents
+*.pdf
+
+# Archives & Compressed files
+*.tar
+*.gz
+*.tar.gz
+
+# LaTeX files
+*.aux
+*.dvi
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
